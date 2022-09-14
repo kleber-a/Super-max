@@ -1,5 +1,5 @@
 # SuperMax
-SuperMax é um site para buscar seus filmes favoritos desenvolido em React **ainda não finalizado**.
+SuperMax é um site para buscar seus filmes favoritos desenvolido em React. **Ainda não finalizado**, [Clique aqui](https://super-max.vercel.app/) para acessar a aplicação
 
 ### 📋 Pré-requisitos
 Para iniciar o projeto será necessário ter instalado em sua máquina o: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). Além disto um editor para trabalhar com o código como o VSCode.
